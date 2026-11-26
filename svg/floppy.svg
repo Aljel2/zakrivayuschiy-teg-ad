@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="floppy" viewBox="0 0 39 39">
+    <path fill="currentColor" fill-rule="evenodd" d="M0 0h33v3h3v3h3v33H0zm3 36h3V21h27v15h3V9h-3V6h-3V3h-3v12H9V3H3zm12-24h9V3h-9zm-6 24h21V24H9z"/>
+  </symbol>
+</svg>
